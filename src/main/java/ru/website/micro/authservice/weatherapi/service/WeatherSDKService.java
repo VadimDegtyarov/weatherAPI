@@ -8,8 +8,6 @@ import org.springframework.web.client.RestTemplate;
 import ru.website.micro.authservice.weatherapi.entity.WeatherData;
 import ru.website.micro.authservice.weatherapi.enums.SdkMode;
 import ru.website.micro.authservice.weatherapi.exception.WeatherSdkException;
-
-import java.net.http.HttpClient;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.*;
