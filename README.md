@@ -16,6 +16,7 @@
 ## Пример использования
 
 java
+
 // Создание экземпляра SDK в режиме polling
 WeatherSDKService sdk = WeatherSDKService.createInstance("YOUR_API_KEY", SdkMode.POLLING);
 
